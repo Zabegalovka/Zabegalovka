@@ -5,6 +5,6 @@ Mohamed Kharma<br />
 Radmir Satae<br />
 Jacob Onbreyt<br />
 Yevheniya Solomyana<br />
-Matheus Figueroa_
+Matheus Figueroa
 ### Documentation
 1.	[Report 1](https://github.com/Zabegalovka/Zabegalovka/blob/main/report%201.pdf)
