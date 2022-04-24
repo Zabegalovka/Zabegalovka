@@ -2,7 +2,7 @@
 CSC 322 Project
 ## Created by
 Mohamed Kharma<br />
-Radmir Satae<br />
+Radmir Sataev<br />
 Jacob Onbreyt<br />
 Yevheniya Solomyana<br />
 Matheus Figueroa
