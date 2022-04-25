@@ -1,5 +1,5 @@
 # Zabegalovka
-CSC 322 Project<br />
+Online Food Delivery App<br />
 [Website](https://liberating-placid-ton.glitch.me)
 ## Created by
 Mohamed Kharma<br />
