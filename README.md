@@ -1,6 +1,6 @@
 # Zabegalovka
 CSC 322 Project<br />
-https://liberating-placid-ton.glitch.me
+[Website](https://liberating-placid-ton.glitch.me)
 ## Created by
 Mohamed Kharma<br />
 Radmir Sataev<br />
