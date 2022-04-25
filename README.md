@@ -9,5 +9,5 @@ Yevheniya Solomyana<br />
 Matheus Figueroa
 ### Documentation
 1.	[Report 1](https://github.com/Zabegalovka/Zabegalovka/blob/main/report%201.pdf)
-###Presentation GIF
+### Presentation GIF
 <img src='presentation.gif' title='Presentation' width='' alt='Video Presentation' />
