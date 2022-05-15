@@ -542,3 +542,205 @@ footer{
     left: -10%;
     transform: translate(-50);
 }*/
+
+/*--ORDER--*/
+#food-container{
+  background: white;
+  box-sizing: content-box;
+  justify-content: space-between;
+  margin: 5px;
+  padding: 5px;
+}
+#header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  font-size: 15px;
+  margin-top: 25px;
+}
+.your-address{
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 3px;
+  width: 160px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+.add-box i{
+  font-size: 15px;
+  margin: 0 10px;
+}
+.util i{
+  font-size: 15px;
+  margin: 0 10px;
+  border: 1px solid black;
+  padding: 8px 12px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 5px;
+}
+.util i:hover{
+  color: white;
+  background: black;
+}
+.food-items{
+/*   display: none; */
+}
+#starters,#main-dish,#salads,#soups,#desserts,#drinks{
+  margin-top: 30px;
+}
+#category-name{
+  margin: 10px;
+  font-size: 35px;
+  color: black;
+}
+#item-card{
+  width: 240px;
+  height: 270px;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 5px;
+/*   background: rgb(128,129,129); */
+  background: rgb(94,43,43);
+  cursor: pointer;
+  transition: 0.5s all ease-in-out;
+  margin-left: 30px;
+}
+#card-top{
+  display: flex;
+  margin: 5px 0;
+  justify-content: space-between;
+}
+#rating{
+  padding: 7px;
+  color: goldenrod;
+  background: black;
+  font-size: 14px;
+  border-radius: 14px;
+}
+.fa-heart-o{
+  padding: 6px;
+  background: lightpink;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.toggle-heart{
+  background: black;
+  color: white;
+}
+#item-card img{
+  width: 150px;
+  height: 150px;
+  border-radius: 25%;
+  margin: auto;
+  display: block;
+  margin-bottom: 20px;
+  transition: 0.5s all ease-in-out;
+}
+#item-card:hover img{
+  transform: scale(1.2);
+}
+#item-name{
+  margin: 5px 0;
+  font-weight: 600;
+  color: black;
+  font-size: 18px;
+}
+#item-price{
+  margin: 0;
+  font-weight: 500;
+  color: black;
+  font-size: 18px;
+}
+
+.cart-toggle{
+  display: none;
+}
+#cart-page{
+  background: pink;
+  margin: 40px 10px;
+  margin-right: 50px;
+  padding: 20px 30px;
+  padding-bottom: 30px;
+  position: relative;
+}
+#cart-title{
+  font-size: 35px;
+  margin: 0;
+  color: black;
+}
+#cart-page table{
+  width: 100%;
+  margin-top: 20px;
+  text-align: center;
+}
+#cart-page table thead td{
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+#m-total-amount{
+  display: none;
+}
+#cart-page table tbody td{
+  padding: 10px 0;
+  font-size: 20px;
+}
+#cart-page table tbody button{
+  outline: none;
+  border: none;
+  font-size: 16px;
+  background: none;
+  background: lightcoral;
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+  margin: 0 5px;
+  padding: 3px 8px;
+}
+#cart-page table tbody img{
+  width: 75px;
+  height: 75px;
+  border-radius: 50px;
+}
+#cart{
+  background: red;
+  padding-right: 30px;
+  overflow-y: scroll;
+}
+#checkout{
+  text-align: center;
+  margin: 80px 80px;
+  border-radius: 5px;
+  background: white;
+  padding: 10px 20px;
+}
+#checkout p{
+  margin: 15px 0;
+  float: center;
+}
+#total-price,#total-item{
+  font-size: 25px;
+  color: black;
+}
+.cart-btn{
+  outline: none;
+  border: none;
+  background: gray;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+  bottom: 30px;
+  margin: 15px 0;
+  cursor: pointer;
+}
+.cart-btn:active{
+  color: black;
+  background: none;
+  border: 1px solid black;
+}
