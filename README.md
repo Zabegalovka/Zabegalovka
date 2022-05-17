@@ -8,6 +8,7 @@ Jacob Onbreyt<br />
 Yevheniya Solomyana<br />
 Matheus Figueroa
 ### Documentation
-1.	[Report 1](https://github.com/Zabegalovka/Zabegalovka/blob/main/report%201.pdf)
+1.	[Report 1 - Software Requirements & Specifications](Reports/report1.pdf)
+2.	[Report 2 - Design Report](Reports/report2.pdf)
 ### Presentation GIF
 <img src='presentation.gif' title='Presentation' width='' alt='Video Presentation' />
