@@ -12,3 +12,5 @@ Matheus Figueroa
 2.	[Report 2 - Design Report](Reports/report2.pdf)
 ### Presentation GIF
 <img src='presentation.gif' title='Presentation' width='' alt='Video Presentation' />
+<img src='presentation_final.gif' title='Presentation' width='' alt='Final Video Presentation' />
+
