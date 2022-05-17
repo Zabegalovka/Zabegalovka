@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
     <script src="script.js"></script>
     <script src="amongus.js"></script>
-    
   </head>
   <body>
     
@@ -24,18 +23,20 @@
         </div>
         <div class="nav-links">
           <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="order/orderNotSingedIn.html">Order</a></li>
-<!--             <li><a href="driver/driver.html">Become a Driver</a></li> -->
-<!--             <li><a href="contact/contact.html">Contact Us</a></li> -->
-            <li><a href="sign/sign.html">Sign In</a></li>
+            <li><a href="indexAfterSignIn.html">Home</a></li>
+            <li><a href="order/order.html">Order</a></li>
+            <li><a href="discussions/discussions.html">Discussions</a></li>
+            <li><a href="chef/chef.html">Chefs</a></li>
+            <li><a href="account/account.html">Account</a></li>
+            <li><a href="contact/contact.html">Contact Us</a></li>
+            <li><a href="index.html" onclick="logOut()">Log Out</a></li>
           </ul>
         </div>
       </div>
     </nav>
-  
+
     <!--HOME PAGE-->
-    <section class="home" id="home">
+    <section class="home" id="home" alert()>
       <div class="max-width">
         <div class="home-content">
           <h4 class="text1">WELCOME TO</h4>
@@ -196,7 +197,7 @@
             </div>
   
       -->
-    
+
     <!-- Copyright Section -->
     <footer>
         <span>Copyright | <span class="far fa-copyright"></span> Zabegalovka 2022 | All rights reserved.</span>
